@@ -1,0 +1,35 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f0f8ff;
+}
+
+#songContainer {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+p {
+    margin: 10px;
+    padding: 5px;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+.final {
+    font-weight: bold;
+    color: darkred;
+}
